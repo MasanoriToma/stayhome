@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="12px" viewBox="0 0 100 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Coming Soon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#17E0DA" offset="0%"></stop>
+            <stop stop-color="#55AEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal">
+        <g id="teaser-desktop-#1" transform="translate(-286.000000, -466.000000)" fill="url(#linearGradient-1)">
+            <g id="appstore" transform="translate(260.000000, 398.000000)">
+                <g id="off">
+                    <text id="Coming-Soon">
+                        <tspan x="26" y="79">COMING SOON</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

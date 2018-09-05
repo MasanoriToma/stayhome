@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#17E0DA" offset="0%"></stop>
+            <stop stop-color="#55AEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="section/phone" transform="translate(0.000000, -302.000000)">
+            <g id="icon" transform="translate(0.000000, 302.000000)">
+                <circle id="bg" fill="url(#linearGradient-1)" cx="48" cy="48" r="48"></circle>
+                <g id="icon/discover" transform="translate(8.000000, 8.000000)" fill="#005276">
+                    <g id="icon">
+                        <path d="M36.875,48.75 C43.7785594,48.75 49.375,43.1535594 49.375,36.25 C49.375,29.3464406 43.7785594,23.75 36.875,23.75 C29.9714406,23.75 24.375,29.3464406 24.375,36.25 C24.375,43.1535594 29.9714406,48.75 36.875,48.75 Z M50.87698,46.7490702 C50.9708186,46.8195278 51.060832,46.8974456 51.1462102,46.9828238 L59.9921761,55.8287897 C60.9692745,56.8058881 60.9692745,58.3900777 59.9921761,59.3671761 C59.0150777,60.3442745 57.4308881,60.3442745 56.4537897,59.3671761 L47.6078238,50.5212102 C47.5224456,50.435832 47.4445278,50.3458186 47.3740702,50.25198 C44.4494176,52.448469 40.8142032,53.75 36.875,53.75 C27.2100169,53.75 19.375,45.9149831 19.375,36.25 C19.375,26.5850169 27.2100169,18.75 36.875,18.75 C46.5399831,18.75 54.375,26.5850169 54.375,36.25 C54.375,40.1892032 53.073469,43.8244176 50.87698,46.7490702 Z" id="Oval" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
